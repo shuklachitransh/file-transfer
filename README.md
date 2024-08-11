@@ -51,20 +51,22 @@ The server will start and listen for client connections on port 10000.
 Open another terminal and navigate to the project directory.
 
 Run the client script:<br>
-sh
-Copy code
-python client.py
-Follow the on-screen commands to interact with the server:
+sh<br>
+Copy code<br>
+python client.py<br>
+Follow the on-screen commands to interact with the server:<br>
 
-listf: Request a list of files available on the server.
-get <filename>: Download a file from the server.
-listen: Listen for broadcasted files from the server.
-close: Close the client application.
-File Format
-Server: server.py
-Handles file broadcasting and client connections.
-Client: client.py
-Allows the user to request files, listen for broadcasts, and interact with the server.
-Acknowledgments
-Python documentation and libraries.
-Network programming resources and examples.
+listf: Request a list of files available on the server.<br>
+get <filename>: Download a file from the server.<br>
+listen: Listen for broadcasted files from the server.<br>
+close: Close the client application.<br>
+File Format<br>
+Server: server.py<br>
+Handles file broadcasting and client connections.<br>
+Client: client.py<br>
+Allows the user to request files, listen for broadcasts, and interact with the server.<br>
+# Acknowledgments
+Python documentation and libraries.<br>
+# Network protocols resources<br>
+we used User Datagram Protocol<br>
+<code>https://www.cloudflare.com/en-in/learning/ddos/glossary/user-datagram-protocol-udp/</code>
