@@ -1,4 +1,5 @@
-<img width="1440" alt="Screenshot 2024-08-11 at 12 46 54 PM" src="https://github.com/user-attachments/assets/9e237af3-1aa4-4c5f-b96e-57736e2e5dab"># • UDP File Transfer System
+
+# UDP File Transfer System
 This project is a simple UDP-based file transfer system consisting of a server and a client application. The server can broadcast files to multiple clients, and the client can request files or listen for broadcasted files.
 <img width="1440" alt="Screenshot 2024-08-11 at 12 15 15 PM" src="https://github.com/user-attachments/assets/fb022a7b-7359-41be-b137-7ca11af87216">
 
