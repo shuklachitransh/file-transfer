@@ -25,7 +25,7 @@ git clone https://github.com/shuklachitransh/file-transfer.git
 cd udp-file-transfer
 # • Create Server Files and Client Files
 
-Place the following Python scripts in the project directory:
+• Place the following Python scripts in the project directory:
 
 server.py: The server application.
 client.py: The client application.
