@@ -50,7 +50,7 @@ The server will start and listen for client connections on port 10000.
 # Running the Client
 Open another terminal and navigate to the project directory.
 
-Run the client script:
+Run the client script:/n
 sh
 Copy code
 python client.py
